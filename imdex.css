@@ -19,4 +19,11 @@ p{
 body{
     background-image: linear-gradient(#FFF,#b6cba0);
     height: 100vh;
+
+}
+a{
+    padding: 15px;
+    bacground-color:#b6cba0;
+    color:white;
+    border-radius:15px;
 }
