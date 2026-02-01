@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Impact", sans-serif;
+    text-align: center;
+}
+img{
+    border-radius: 15px;
+    width: 50%;
+    margin: auto;
+}
+h1,p{
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-image: linear-gradient(#FFF,#b6cba0);
+    height: 100vh;
+}
