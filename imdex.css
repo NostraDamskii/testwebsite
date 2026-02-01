@@ -23,11 +23,13 @@ body{
 }
 a{
     padding: 15px;
-    background-color: #b6cba0;
-    color: white;
+    background-color: white;
+    color: #b6cba0;
     border-radius: 15px;
     text-decoration: none;
+    margin: 20px;
 }
+
 
 
 
